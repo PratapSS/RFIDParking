@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RFIDParking</string>
+    <string name="parkoff">Occupied</string>
+    <string name="parkon">Free</string>
+
+</resources>
